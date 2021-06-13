@@ -44,6 +44,22 @@ Assigned Tasks:
 
 ---------------------------------------------------------------------------------------------------------
 
+**Part III - Analysis Report to Management**
+
+Based on the case provided, develop a consolidated report containing the top actionable insights from the case as well as the final revenue and cross-sell promotion models.
+
+Target Audience: C-Suite executives (a non-technical audience)
+
+The target audience has a basic understanding of:
+
+- Correlation (understands the basic concept)
+- OLS regression and logistic regression (they once built base models in Excel while enrolled in business school, but that was several years ago)
+
+Also, the target audience have never seen the data and do not understand what the column labels in the dataset mean. 
+The audience is more interested in the actionable insights as opposed to the steps that were taken to achieve the results. 
+
+---------------------------------------------------------------------------------------------------------
+
 **Supervised Techniques Covered**
 
 1. OLS Linear Regression
